@@ -19,6 +19,10 @@ Starting from a simple baseline, the project progressively improves model accura
 
 ![Demo](demo.gif)
 
+## 🌐 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=render)](https://cifar10-image-classification-pytorch.onrender.com)
+
 ## 🎯 Objectives
 
 - Establish a baseline model for image classification
