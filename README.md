@@ -15,6 +15,10 @@ Starting from a simple baseline, the project progressively improves model accura
 
 ---
 
+## 🎥 Demo
+
+![Demo](demo.gif)
+
 ## 🎯 Objectives
 
 - Establish a baseline model for image classification
